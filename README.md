@@ -4,7 +4,7 @@ This model focuses on Subscription-Based Companies, estimating the potential lon
 <br/>A clear indication of how valuable a customer is to your company, instead of just focusing on their first purchase.
 
 ## The Objective: 
-• Develop strategic plans, focusing on maximizing customer lifetime value, <br/>
+• Set the maximum marketing budget for both acquiring new customers, and for maintaining relationships with existing ones. <br/>
 
 ## Tools: 
 Excel: The main metrics: Number of clients/ Gross Profit/ Churn Rate/ Transaction and Order value <br/>
