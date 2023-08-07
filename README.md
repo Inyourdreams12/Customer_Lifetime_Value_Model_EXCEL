@@ -7,7 +7,7 @@ This model focuses on Subscription-Based Companies, estimating the potential lon
 • Set the maximum marketing budget for both acquiring new customers, and for maintaining relationships with existing ones. <br/>
 
 ## Tools: 
-Excel: The main metrics: Number of clients/ Gross Profit/ Churn Rate/ Transaction and Order value <br/>
+• Excel: The main metrics: Number of clients/ Gross Profit/ Churn Rate/ Transaction and Order value <br/>
 
 <pre>
 
